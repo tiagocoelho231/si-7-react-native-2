@@ -1,13 +1,5 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
 import React from 'react';
-import { SafeAreaView, StyleSheet, ScrollView, View, Text } from 'react-native';
+import { SafeAreaView, StyleSheet, View, Text } from 'react-native';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import List from './components/List';
